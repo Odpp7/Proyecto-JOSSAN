@@ -13,13 +13,7 @@ namespace ENTITY
         public Articulo Articulo { get; set; }
         public decimal PrecioUnitario { get; set; }
         public int Cantidad { get; set; }
-        public decimal Descuento
-        {
-            get
-            {
-                return Articulo.DescuentoVigente;
-            }
-        }
+        public decimal Descuento { get; set; }
         public decimal Subtotal { get; set; }
     }
 }
