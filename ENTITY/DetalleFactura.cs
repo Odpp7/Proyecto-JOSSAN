@@ -23,4 +23,3 @@ namespace ENTITY
         public decimal Subtotal { get; set; }
     }
 }
-}

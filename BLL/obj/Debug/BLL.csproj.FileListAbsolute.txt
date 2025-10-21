@@ -1,0 +1,2 @@
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache

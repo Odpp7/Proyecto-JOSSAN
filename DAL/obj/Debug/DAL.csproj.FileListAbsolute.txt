@@ -1,0 +1,2 @@
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

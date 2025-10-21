@@ -1,0 +1,2 @@
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\JOSSAN\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
