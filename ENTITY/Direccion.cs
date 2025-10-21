@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ENTITY
+{
+    public class Direccion
+    {
+        public string IdDireccion { get; set; }
+        public string DireccionPrincipal { get; set; }
+        public Barrio Barrio { get; set; }
+        public string CodigoPostal { get; set; }
+
+    }
+}

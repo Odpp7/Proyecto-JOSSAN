@@ -1,0 +1,30 @@
+﻿@inherits LayoutComponentBase
+
+<div class="login-layout">
+    <main class="login-main">
+        @Body
+    </main>
+</div>
+
+@code {
+
+}
+
+<style>
+
+    .login-layout {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        background-image: url('Fondo.png');
+        background-size: cover;
+    }
+
+    .login-main {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+</style>
